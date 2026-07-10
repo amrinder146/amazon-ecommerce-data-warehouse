@@ -24,9 +24,7 @@ MySQL 8 · SQL · Power BI · star schema / dimensional modelling (Kimball appro
 
 ```
 ├── etl/                  # extract, transform, load SQL scripts (run in order)
-├── schema/               # DDL for staging tables, dimensions, fact table
 ├── powerbi/              # .pbix file + dashboard screenshots
-└── docs/                 # data quality notes, ETL flow diagram
 ```
 
 ## Data source
